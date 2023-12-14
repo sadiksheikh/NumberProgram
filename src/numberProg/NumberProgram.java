@@ -5,7 +5,6 @@ public class NumberProgram {
 		public static void main(String[] args) {
 	
 
-		
 //		//Prime Number 1 to 100;
 //			
 //		for(int a=1; a<=100; a++)
